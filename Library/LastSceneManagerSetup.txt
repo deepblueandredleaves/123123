@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/XLua/Examples/02_U3DScripting/U3DScripting.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
